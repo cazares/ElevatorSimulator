@@ -3,4 +3,8 @@ ElevatorSimulator
 
 MVC elevator simulator using the Java AWT framework
 
-![Class Diagram](http://cazares.github.io/images/elevator-simulator-class-diagram.jpg)
+![Model](http://cazares.github.io/images/elevator-simulator-class-diagram-model.jpg)
+
+![View](http://cazares.github.io/images/elevator-simulator-class-diagram-view.jpg)
+
+![Controller](http://cazares.github.io/images/elevator-simulator-class-diagram-controller.jpg)
